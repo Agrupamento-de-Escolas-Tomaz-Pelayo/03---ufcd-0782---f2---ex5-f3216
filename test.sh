@@ -1,7 +1,7 @@
 echo "A executar os testes ..."
 echo
 
-output=$(./a.out)
+output=$(./NumaCaixa)
 expected_output_1="##############"
 expected_output_2="# Ola Mundo! #"
 expected_output_3="##############"
